@@ -24,8 +24,8 @@ private slots:
 
 private:
     QOAuth2AuthorizationCodeFlow spotify;
-    QString clientId = "6c5544868a7f4d39bf9cb2bcd770134f";
-    QString clientSecret = "f1dce1a6615a43d2ba2b3eea084cdd22";
+    QString clientId = "XXXXXXXXXXXXXXXXXXXXXXX";
+    QString clientSecret = "XXXXXXXXXXXXXXXXXXXXXXX";
 };
 
 
